@@ -29,5 +29,9 @@ It automates:
 - System performance tracking
 - GUI interface
 
+## 📷 Application Preview
+
+![Automation Suite Screenshot](screenshot.png)
+
 ## 👨‍💻 Author
 - Karunya
